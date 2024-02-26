@@ -13,4 +13,5 @@ https://youtube.com/playlist?list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&si=eTicXy0S
 by Let's Make Games (@CarlBirch)
 I didn't watch the whole playlist (only until the 9th video in the playlist) due to the simplicity of my project in comparasion to his.
 
-I own all the assets except for the japanese style tile floor behind the board which I took from ibisPaint X.
+Assets and ownership:
+I own all the assets except for the japanese style tile floor behind the board which I took from ibisPaint X and the dirt png which I took from pixilart.com .
