@@ -3,8 +3,8 @@
 #include <SDL.h>
 #include <SDL_image.h>
 #include<iostream>
-#include<cstdlib>
-#include<ctime>
+//#include<cstdlib>
+#include<chrono>
 #include <random>
 
 class Game

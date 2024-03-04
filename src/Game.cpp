@@ -111,6 +111,7 @@ void Game::clean()
 
 int Game::dice_roll()
 	{
-		static std::mt19937 mt{};
-		return (mt() % 6) + 1;
+	static std::mt19937 mt{ std::random_device{}()};
+		std::uniform_int_distribution<int> die6{ 1, 6 };
+		return die6(mt);
 	}
