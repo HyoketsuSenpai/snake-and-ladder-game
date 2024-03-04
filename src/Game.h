@@ -5,6 +5,7 @@
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
+#include <random>
 
 class Game
 {

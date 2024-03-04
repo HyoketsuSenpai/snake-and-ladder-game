@@ -111,6 +111,6 @@ void Game::clean()
 
 int Game::dice_roll()
 	{
-		srand(time(nullptr));
-	return (rand() % 6) + 1;
+		static std::mt19937 mt{};
+		return (mt() % 6) + 1;
 	}
